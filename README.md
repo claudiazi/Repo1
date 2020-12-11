@@ -16,7 +16,7 @@
    ```
    cd /Users/filelocation
    ```
-..* Initialize empty Git repository
+* Initialize empty Git repository
    ```
    git init
    ```
@@ -24,29 +24,29 @@
    ```
    defaults write com.apple.finder AppleShowAllFiles YES
    ```
-⋅⋅* Check the status of branch master
+* Check the status of branch master
 ```
 git status
 ```
-⋅⋅* Include the files to be committed
+* Include the files to be committed
 ```
 git add <filename>/ git add . / git add *.txt
 ```
-⋅⋅* Commit & show msg (describe the actions done)
+* Commit & show msg (describe the actions done)
 ```
 git commit -m "added text1.txt"
 ```
-⋅⋅* Create 'New Repository' in GitHub
+* Create 'New Repository' in GitHub
 ```
 git remote add origin <location of the repository>
 ```
-⋅⋅* Push the master
+* Push the master
 ```
 git push -u origin master
 ```
 
 ## Other commands
-⋅⋅* Show what has been done so far
+* Show what has been done so far
 ```
 git log
 ```
