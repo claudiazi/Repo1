@@ -12,7 +12,7 @@
    git config --global user.name"yourGitHubusername"
    ```
 ## 4. Add file/folders to git - tracking
-*Go to the location of the file/folder/project
+* Go to the location of the file/folder/project
    ```
    cd /Users/filelocation
    ```
