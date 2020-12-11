@@ -16,7 +16,7 @@
    ```
    cd /Users/filelocation
    ```
-⋅⋅* Initialize empty Git repository
+..* Initialize empty Git repository
    ```
    git init
    ```
